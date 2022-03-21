@@ -1,6 +1,6 @@
 import TrackList from "../Components/TrackList/TrackList";
 
-const clientId = '';
+const clientId = '12608e0a02f14db58979a9b0fb506dea';
 const redirectUri = 'https://test-api-spotify.herokuapp.com';
 let accessToken;
 
